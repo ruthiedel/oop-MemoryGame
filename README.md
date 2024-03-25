@@ -1,1 +1,1 @@
-this project in C# showes in magnificent way the greate powers of OOP 
+This C# project showcases the great powers of OOP in a great way
